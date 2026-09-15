@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Sanasys\\Desktop\\Code\\Banking System132\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{137B1EE9-4CF1-4E9E-96F1-52A15C51FC45}|Banking System132\\Banking System132.vcxproj|C:\\Users\\Sanasys\\Desktop\\Code\\Banking System132\\Banking System132\\Course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{137B1EE9-4CF1-4E9E-96F1-52A15C51FC45}|Banking System132\\Banking System132.vcxproj|solutionrelative:Banking System132\\Course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanasys\\Desktop\\Bank-System-main (1)\\Bank-System-main\\Course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{137B1EE9-4CF1-4E9E-96F1-52A15C51FC45}|Banking System132\\Banking System132.vcxproj|C:\\Users\\Sanasys\\Desktop\\Code\\Course 7\\Course 7\\BankingSystemLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanasys\\Desktop\\Code\\Banking System132\\Banking System132\\Course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Banking System132\\Course 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,20 +28,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Course 7.cpp",
               "DocumentMoniker": "C:\\Users\\Sanasys\\Desktop\\Bank-System-main (1)\\Bank-System-main\\Course 7.cpp",
               "RelativeDocumentMoniker": "..\\..\\Bank-System-main (1)\\Bank-System-main\\Course 7.cpp",
               "ToolTip": "C:\\Users\\Sanasys\\Desktop\\Bank-System-main (1)\\Bank-System-main\\Course 7.cpp",
               "RelativeToolTip": "..\\..\\Bank-System-main (1)\\Bank-System-main\\Course 7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-15T12:37:05.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T12:37:05.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BankingSystemLib.h",
               "DocumentMoniker": "C:\\Users\\Sanasys\\Desktop\\Code\\Course 7\\Course 7\\BankingSystemLib.h",
               "RelativeDocumentMoniker": "..\\Course 7\\Course 7\\BankingSystemLib.h",
@@ -49,18 +47,17 @@
               "RelativeToolTip": "..\\Course 7\\Course 7\\BankingSystemLib.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-15T12:08:42.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T12:08:42.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Course 7.cpp",
               "DocumentMoniker": "C:\\Users\\Sanasys\\Desktop\\Code\\Banking System132\\Banking System132\\Course 7.cpp",
               "RelativeDocumentMoniker": "Banking System132\\Course 7.cpp",
               "ToolTip": "C:\\Users\\Sanasys\\Desktop\\Code\\Banking System132\\Banking System132\\Course 7.cpp",
               "RelativeToolTip": "Banking System132\\Course 7.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-15T12:00:25.769Z",
               "EditorCaption": ""
