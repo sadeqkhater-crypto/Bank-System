@@ -1397,7 +1397,7 @@ namespace BankingSystemLib
 			ExecuteManageUserMenuOption(Number, vLogin);
 			system("pause");
 			system("cls");
-			ShowManagerUserMenu(vLogin);
+			ShowManagerUserMenu(vLogin , username);
 			break;
 
 		case 2:
@@ -1405,7 +1405,7 @@ namespace BankingSystemLib
 			ExecuteManageUserMenuOption(Number, vLogin);
 			system("pause");
 			system("cls");
-			ShowManagerUserMenu(vLogin);
+			ShowManagerUserMenu(vLogin, username);
 			break;
 
 		case 3:
@@ -1413,7 +1413,7 @@ namespace BankingSystemLib
 			ExecuteManageUserMenuOption(Number, vLogin);
 			system("pause");
 			system("cls");
-			ShowManagerUserMenu(vLogin);
+			ShowManagerUserMenu(vLogin, username);
 			break;
 
 		case 4:
@@ -1421,7 +1421,7 @@ namespace BankingSystemLib
 			ExecuteManageUserMenuOption(Number, vLogin);
 			system("pause");
 			system("cls");
-			ShowManagerUserMenu(vLogin);
+			ShowManagerUserMenu(vLogin, username);
 			break;
 
 		case 5:
@@ -1429,7 +1429,7 @@ namespace BankingSystemLib
 			ExecuteManageUserMenuOption(Number, vLogin);
 			system("pause");
 			system("cls");
-			ShowManagerUserMenu(vLogin);
+			ShowManagerUserMenu(vLogin, username);
 			break;
 
 		case 6:
@@ -1565,7 +1565,8 @@ namespace BankingSystemLib
 
 			if (CheckValidUserName( vLogin, username, password))
 			{
-				 
+				system("cls");
+				ShowMainMenu(username);
 				Result = true;
 			}
 			else
