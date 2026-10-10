@@ -1,0 +1,10 @@
+x64/ 
+.vs/
+**/.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.vsidx
+*.ipch
