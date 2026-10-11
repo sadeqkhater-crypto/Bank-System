@@ -31,7 +31,8 @@ namespace BankingSystemLib
 {
 
 	
-	const string FileName = "Clients.txt";
+		const string FileName = R"(C:\BankData\Clients.txt)";
+
 	const string FileName2 = "Users.txt";
 
 	struct sLogin
